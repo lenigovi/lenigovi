@@ -27,6 +27,9 @@
     <td><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></td>
   </tr>
   <tr>
+    <td colspan="13" style="border-bottom: 0.5px double #ddd;"></td>
+  </tr>
+  <tr>
     <td colspan="3"; style="text-align: center">Database</td>
     <td colspan="3"; style="text-align: center">Testing</td>
     <td colspan="2"; style="text-align: center">Data Viz</td>
@@ -48,6 +51,7 @@
     <td><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></td>
     <td><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a></td>
   </tr>
+<td colspan="13" style="border-bottom: 0.5px double #ddd;"></td>
   <tr>
     <td colspan="2"; style="text-align: center">Other</td>
     <td colspan="4"; style="text-align: center">Goals</td>
