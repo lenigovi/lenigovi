@@ -1,9 +1,7 @@
-### Hey there
----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lenigovi&label=Profile%20views&color=0e75b6&style=flat" alt="lenigovi" /> </p>
 
-
+---
 <table>
   <tr style="background-color: #808080;">
     <td colspan="5"; style="text-align: center">Languages</td>
