@@ -27,7 +27,7 @@
     <td colspan="13" style="border-bottom: 0.5px double #ddd;"></td>
   </tr>
   <tr style="background-color: #808080;">
-    <td colspan="3"; style="text-align: center">Database</td>
+    <td colspan="2"; style="text-align: center">Database</td>
     <td colspan="3"; style="text-align: center">Testing</td>
     <td colspan="2"; style="text-align: center">Data Viz</td>
     <td colspan="4"; style="text-align: center">Software</td>
@@ -36,7 +36,6 @@
   <tr style="background-color: #D3D3D3;">
     <td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a></td>
     <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-    <td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></td>
     <td><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a></td>
     <td><a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/></a></td>
     <td><a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a></td>
