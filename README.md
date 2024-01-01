@@ -4,7 +4,7 @@
 ---
 <table>
   <tr style="background-color: #808080;">
-    <td colspan="5"; style="text-align: center">Languages</td>
+    <td colspan="4"; style="text-align: center">Languages</td>
     <td colspan="2"; style="text-align: center">Front End</td>
     <td colspan="1"; style="text-align: center">Backend</td>
     <td colspan="5"; style="text-align: center">AI/ML</td>
