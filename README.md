@@ -1,13 +1,17 @@
 ### Project Websites
 ---
-[Neural IPS](lenigovi.github.io/Neural-IPS)  |  [Bord the Parallel Robot](https://github.com/lenigovi/Bord-the-ParallelRobot) | [Robotic Auscultation](https://github.com/lenigovi/RoboticAuscultation)
+[Neural IPS](https://lenigovi.github.io/Neural-IPS)  |  [Bord the Parallel Robot](https://github.com/lenigovi/Bord-the-ParallelRobot) | [Robotic Auscultation](https://github.com/lenigovi/RoboticAuscultation)
 
 
 <a href="https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/2 Paper.ipynb" target="_blank" title="Paper"><img width=100% alt="project" src="https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/bord2.png"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenigovi&label=Profile%20views&color=0e75b6&style=flat" alt="lenigovi" /> </p>
+
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenigovi&label=Profile%20views&color=0e75b6&style=flat" alt="lenigovi" /> </p>
+
+
 <table>
   <tr style="background-color: #808080;">
     <td colspan="4"; style="text-align: center">Languages</td>
