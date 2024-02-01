@@ -1,13 +1,6 @@
+## 🚀  Liftoff to Leniverse
+![lenileni](https://github.com/lenigovi/lenigovi/assets/145778326/493c521f-d809-4f3e-97ad-3c5569012132)
 
-
-
-### Project Websites
----
-[Neural IPS](https://lenigovi.github.io/Neural-IPS)  |  [Bord the Parallel Robot](https://github.com/lenigovi/Bord-the-ParallelRobot) | [Robotic Auscultation](https://github.com/lenigovi/RoboticAuscultation)
-
-
-
-<a href="https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/2 Paper.ipynb" target="_blank" title="Paper"><img width=100% alt="project" src="https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/bord2.png"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lenigovi&label=Profile%20views&color=0e75b6&style=flat" alt="lenigovi" /> </p>
 
 <div align = center>
@@ -15,7 +8,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenigovi&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=E059B2&layout=compact&langs_count=8)](https://github.com/lenigovi) 
 
 </div>
+
+
+### Projects
+---
+<a href="https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/2 Paper.ipynb" target="_blank" title="Paper"><img width=100% alt="project" src="https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/bord2.png"></a>
+[Neural IPS](https://lenigovi.github.io/Neural-IPS)  |  [Bord the Parallel Robot](https://github.com/lenigovi/Bord-the-ParallelRobot) | [Robotic Auscultation](https://github.com/lenigovi/RoboticAuscultation)
+
+
+
+
+
 <br>
+
+### Skills
 
 ---
 
