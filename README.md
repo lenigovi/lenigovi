@@ -15,7 +15,7 @@
 ### Projects
 ---
 <a href="https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/2 Paper.ipynb" target="_blank" title="Paper"><img width=100% alt="project" src="https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/bord2.png"></a>
-[UR5E](https://github.com/lenigovi/UR5e)  |  [Robotic Auscultation](https://github.com/lenigovi/RoboticAuscultation)  |  [SODA](https://github.com/lenigovi/SODA)  |  [Neural IPS](https://lenigovi.github.io/Neural-IPS)  |  [Bord the Parallel Robot](https://github.com/lenigovi/Bord-the-ParallelRobot)
+[wip Blog Robotic Manipulators](https://github.com/lenigovi/RobotMotionandGUI) | [UR5E](https://github.com/lenigovi/UR5e)  |  [Robotic Auscultation](https://github.com/lenigovi/RoboticAuscultation)  |  [SODA](https://github.com/lenigovi/SODA)  |  [Neural IPS](https://lenigovi.github.io/Neural-IPS)  |  [Bord the Parallel Robot](https://github.com/lenigovi/Bord-the-ParallelRobot)
 
 
 
