@@ -1,11 +1,11 @@
 
 <!---- ![lenileni](https://github.com/lenigovi/lenigovi/assets/145778326/493c521f-d809-4f3e-97ad-3c5569012132) ----->
 
-![lenilenileni](https://github.com/lenigovi/lenigovi/assets/145778326/3e462b07-3764-4fbc-85d7-1da24cde4630)
+<!---- ![lenilenileni](https://github.com/lenigovi/lenigovi/assets/145778326/3e462b07-3764-4fbc-85d7-1da24cde4630)----->
 
-<h2 align="center"> 🚀  Liftoff to Leniverse </h2>
+<img align="left" src="https://cdnb.artstation.com/p/assets/images/images/034/008/543/original/jade-guilbot-astronaute-idle-gif.gif?1611154641" width="6%"> <h2 align="left"> 🪐Leniverse </h2> [UR5E](https://github.com/lenigovi/UR5e)  |  [Robotic Manipulators](https://github.com/lenigovi/RobotMotionandGUI) |  [Optimal State Estimation](https://github.com/lenigovi/RobustControl)  |  [Screw Theory Toolbox](https://github.com/lenigovi/ScrewTheoryToolbox)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenigovi&label=Profile%20views&color=0e75b6&style=flat" alt="lenigovi" /> </p>
+<!---- !<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenigovi&label=Profile%20views&color=0e75b6&style=flat" alt="lenigovi" /> </p>
 
 <div align = center>
   
@@ -15,7 +15,7 @@
 ### Projects
 ---
 <a href="https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/2 Paper.ipynb" target="_blank" title="Paper"><img width=100% alt="project" src="https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/bord2.png"></a>
-[wip Blog Robotic Manipulators](https://github.com/lenigovi/RobotMotionandGUI) | [UR5E](https://github.com/lenigovi/UR5e)  |  [Robotic Auscultation](https://github.com/lenigovi/RoboticAuscultation)  |  [SODA](https://github.com/lenigovi/SODA)  |  [Neural IPS](https://lenigovi.github.io/Neural-IPS)  |  [Bord the Parallel Robot](https://github.com/lenigovi/Bord-the-ParallelRobot)
+
 
 
 
